@@ -171,22 +171,22 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Regular</td>
-                            <td>Rp. 4.000.000</td>
-                            <td><a href="form.php?id=0" class="btn btn-primary">Order</a></td>
+                            <td>Rp. 5.000.000</td>
+                            <td><a href="form.php" class="btn btn-primary">Order</a></td>
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Premium</td>
-                            <td>Rp. 5.000.000</td>
+                            <td>Rp. 6.000.000</td>
 
 
-                            <td><a href="form.php?id=1" class="btn btn-primary">Order</a></td>
+                            <td><a href="form.php" class="btn btn-primary">Order</a></td>
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>VIP</td>
-                            <td>Rp. 7.000.000</td>
-                            <td><a href="form.php?id=2" class="btn btn-primary">Order</a></td>
+                            <td>Rp. 7.500.000</td>
+                            <td><a href="form.php" class="btn btn-primary">Order</a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -223,5 +223,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>
+
 
 </html>
